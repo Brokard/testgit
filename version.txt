@@ -6,3 +6,4 @@ Hotfix 01
 ADD feature 4
 ADD feature 5
 ADD feature 6
+ADD feature 7
